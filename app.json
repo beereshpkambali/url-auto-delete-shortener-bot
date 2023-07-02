@@ -1,6 +1,6 @@
 {
-    "name": "ᎯℕUℛᎯᎶ",
-    "description": "Clone Of ᎯℕUℛᎯᎶ & More Features Added",
+    "name": "𝗠𝗿|| 𝗔𝗯𝗻𝗼𝗿𝗺𝗮𝗹™☠, 🇮🇳 [Oғғɪᴄɪᴀʟ]",
+    "description": "Clone Of 𝗠𝗿|| 𝗔𝗯𝗻𝗼𝗿𝗺𝗮𝗹™☠, 🇮🇳 [Oғғɪᴄɪᴀʟ] & More Features Added",
     "stack": "container",
     "logo": "https://telegra.ph/file/9ee1253e36b37a1665ce2.jpg",
     "keywords": [
@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/AM-ROBOTS/AM-ROBOTS",
-    "repository": "https://github.com/AM-ROBOTS/AM-ROBOTS",
+    "website": "https://github.com/beereshpkambali/url-auto-delete-shortener-bot",
+    "repository": "https://t.me/I_am_Mr_Abnormal",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
